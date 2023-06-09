@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "website1",
+			"path": "../../website1"
+		},
+		{
+			"name": "websitepractice",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "websitepractice"
+	}
+}
